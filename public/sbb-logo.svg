@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 76" role="img" aria-labelledby="title">
+<title id="title">SBB — Sumur Bor Berkah</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E8C57D"/><stop offset="1" stop-color="#B98435"/></linearGradient></defs>
+<g transform="translate(4 4)"><path d="M31 2C24 15 8 29 8 43a23 23 0 0 0 46 0C54 29 38 15 31 2Z" fill="none" stroke="url(#g)" stroke-width="3.5"/><path d="M31 20v28m-9-8 9 9 9-9" fill="none" stroke="#E8C57D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M17 54c8 5 20 5 28 0" fill="none" stroke="#0B6FB7" stroke-width="3" stroke-linecap="round"/></g>
+<text x="72" y="39" fill="#E8C57D" font-family="Arial,sans-serif" font-size="31" font-weight="800" letter-spacing="-1.5">SBB</text><text x="74" y="55" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="9.2" font-weight="700" letter-spacing="1.05">SUMUR BOR BERKAH</text><text x="74" y="67" fill="#C7D1DF" font-family="Arial,sans-serif" font-size="6.5" font-weight="600" letter-spacing="1.5">WATER WELL DRILLING</text></svg>
